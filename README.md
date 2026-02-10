@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Bonjour, moi c’est Patricia 
 
-<!--
-**aradaicirtap/aradaicirtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst passionné par les chiffres, les modèles et les histoires cachées dans les données.
 
-Here are some ideas to get you started:
+Je ne vois pas des tableaux.  
+Je vois des tendances.  
+Je ne vois pas des chiffres.  
+Je vois des décisions à prendre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔍 Ce que je fais
+
+- Transformer des données brutes en insights stratégiques  
+- Construire des dashboards clairs et impactants  
+- Nettoyer, structurer et analyser des datasets complexes  
+- Aider à prendre des décisions basées sur des faits, pas sur l’intuition  
+
+---
+
+ 🛠️ Stack & Outils
+
+- Python (Pandas, NumPy, Matplotlib / Seaborn)
+- SQL
+- Excel / Google Sheets
+- Power BI / Tableau
+- Analyse statistique & visualisation de données
+
+---
+Ma philosophie
+
+Les données parlent.  
+Encore faut-il savoir les écouter.
+
+Je cherche toujours à comprendre le **“pourquoi”** derrière les chiffres et à transformer l’analyse en valeur concrète.
+
+
+
+Actuellement
+
+- Approfondissement en analyse avancée et modélisation  
+- Projets orientés performance & optimisation  
+- Ouvert aux collaborations et opportunités
+
+
