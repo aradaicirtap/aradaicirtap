@@ -1,45 +1,20 @@
-👋 Bonjour, moi c’est Patricia 
+# 🌸 Pause Sudoku Magique
 
-📊 Data Analyst passionné par les chiffres, les modèles et les histoires cachées dans les données.
+Bienvenue dans ton petit défi doux et élégant ✨  
+Niveau : **Easy** 💗  
 
-Je ne vois pas des tableaux.  
-Je vois des tendances.  
-Je ne vois pas des chiffres.  
-Je vois des décisions à prendre.
-
----
-
-🔍 Ce que je fais
-
-- Transformer des données brutes en insights stratégiques  
-- Construire des dashboards clairs et impactants  
-- Nettoyer, structurer et analyser des datasets complexes  
-- Aider à prendre des décisions basées sur des faits, pas sur l’intuition  
-
----
-
- 🛠️ Stack & Outils
-
-- Python (Pandas, NumPy, Matplotlib / Seaborn)
-- SQL
-- Excel / Google Sheets
-- Power BI / Tableau
-- Analyse statistique & visualisation de données
-
----
-Ma philosophie
-
-Les données parlent.  
-Encore faut-il savoir les écouter.
-
-Je cherche toujours à comprendre le **“pourquoi”** derrière les chiffres et à transformer l’analyse en valeur concrète.
+Prends une pause, respire… et amuse-toi 🦄
 
 
 
-Actuellement
+💡 Astuce girly : les `☆` et `○` rendent le puzzle doux et joli ✨  
 
-- Approfondissement en analyse avancée et modélisation  
-- Projets orientés performance & optimisation  
-- Ouvert aux collaborations et opportunités
+<details>
+<summary>💖 Voir la solution magique</summary>
 
+
+✨ Félicitations si tu l’as résolu sans tricher !  
+Tu es déjà **une développeuse magique** 🦄💻💖
+
+</details>
 
